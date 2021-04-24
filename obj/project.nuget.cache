@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DsndtjmMRxEcv5RBV95T4qdvvRq/9srVyQlKWRjruSLuK7wnqN9vGKsiNINBZHsKXBNiQDQm0EeOoDM7on1mWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johnc\\Documents\\My Games\\Terraria\\ModLoader\\Beta\\Mod Sources\\MaxStackExtra\\MaxStackExtra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johnc\\.nuget\\packages\\tmodloader.codeassist\\0.1.2\\tmodloader.codeassist.0.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
